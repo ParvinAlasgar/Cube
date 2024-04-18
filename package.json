@@ -1,0 +1,23 @@
+{
+  "name": "cube",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build-css": "node-sass assets/sass/style.scss -o assets/css -w"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ParvinAlasgar/Cube.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ParvinAlasgar/Cube/issues"
+  },
+  "homepage": "https://github.com/ParvinAlasgar/Cube#readme",
+  "dependencies": {
+    "node-sass": "^9.0.0"
+  }
+}
